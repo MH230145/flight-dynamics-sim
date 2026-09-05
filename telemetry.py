@@ -1,0 +1,2 @@
+import os
+SAMPLING_RATE_HZ = 200
